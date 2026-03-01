@@ -50,3 +50,27 @@ CodeAlpha_AIChatbot/
 ## 📸 Application Screenshot
 
 ![Chatbot Screenshot](images/screenshot.png)
+## 🚀 How to Run
+
+1. Open the project in any Java IDE (Eclipse / IntelliJ / VS Code).
+2. Compile the files.
+3. Run `GradeTrackerUI.java`.
+4. Enter student details and subject-wise marks.
+5. Click **Show Summary** to view:
+   - Average marks  
+   - Highest scoring subject  
+   - Lowest scoring subject  
+
+---
+
+## 📚 Project Type
+
+**CodeAlpha Internship – Task 1**  
+Student Grade Tracker
+
+---
+
+## 👩‍💻 Author
+
+**Shaik Saniya**  
+Java Developer 
