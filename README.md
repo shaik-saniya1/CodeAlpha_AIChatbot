@@ -47,3 +47,6 @@ CodeAlpha_AIChatbot/
 ├── IntentClassifier.java
 ├── FAQRepository.java
 └── README.md
+## 📸 Application Screenshot
+
+![Chatbot Screenshot](images/screenshot.png)
